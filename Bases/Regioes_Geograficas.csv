@@ -1,0 +1,192 @@
+UF,Nome_UF,Região Geográfica Intermediária,Nome Região Geográfica Intermediária,Região Geográfica Imediata,Nome Região Geográfica Imediata,Município,Código Município Completo,Nome_Município,Distrito,Código de Distrito Completo,Nome_Distrito
+24,Rio Grande do Norte,2402,Caicó,240008,Currais Novos,00109,2400109,Acari,05,240010905,Acari
+24,Rio Grande do Norte,2403,Mossoró,240011,Açu,00208,2400208,Açu,05,240020805,Açu
+24,Rio Grande do Norte,2403,Mossoró,240011,Açu,00307,2400307,Afonso Bezerra,05,240030705,Afonso Bezerra
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,00406,2400406,Água Nova,05,240040605,Água Nova
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,00505,2400505,Alexandria,05,240050505,Alexandria
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,00604,2400604,Almino Afonso,05,240060405,Almino Afonso
+24,Rio Grande do Norte,2403,Mossoró,240011,Açu,00703,2400703,Alto do Rodrigues,05,240070305,Alto do Rodrigues
+24,Rio Grande do Norte,2403,Mossoró,240011,Açu,00802,2400802,Angicos,05,240080205,Angicos
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,00901,2400901,Antônio Martins,05,240090105,Antônio Martins
+24,Rio Grande do Norte,2403,Mossoró,240009,Mossoró,01008,2401008,Apodi,05,240100805,Apodi
+24,Rio Grande do Norte,2403,Mossoró,240009,Mossoró,01107,2401107,Areia Branca,05,240110705,Areia Branca
+24,Rio Grande do Norte,2401,Natal,240003,Canguaretama,01206,2401206,Arês,05,240120605,Arês
+24,Rio Grande do Norte,2401,Natal,240003,Canguaretama,01404,2401404,Baía Formosa,05,240140405,Baía Formosa
+24,Rio Grande do Norte,2403,Mossoró,240009,Mossoró,01453,2401453,Baraúna,05,240145305,Baraúna
+24,Rio Grande do Norte,2401,Natal,240006,São Paulo do Potengi,01503,2401503,Barcelona,05,240150305,Barcelona
+24,Rio Grande do Norte,2401,Natal,240001,Natal,01602,2401602,Bento Fernandes,05,240160205,Bento Fernandes
+24,Rio Grande do Norte,2401,Natal,240001,Natal,01602,2401602,Bento Fernandes,10,240160210,Belo Horizonte
+24,Rio Grande do Norte,2402,Caicó,240008,Currais Novos,01651,2401651,Bodó,05,240165105,Bodó
+24,Rio Grande do Norte,2401,Natal,240001,Natal,01701,2401701,Bom Jesus,05,240170105,Bom Jesus
+24,Rio Grande do Norte,2401,Natal,240001,Natal,01800,2401800,Brejinho,05,240180005,Brejinho
+24,Rio Grande do Norte,2401,Natal,240005,João Câmara,01859,2401859,Caiçara do Norte,05,240185905,Caiçara do Norte
+24,Rio Grande do Norte,2401,Natal,240006,São Paulo do Potengi,01909,2401909,Caiçara do Rio do Vento,05,240190905,Caiçara do Rio do Vento
+24,Rio Grande do Norte,2402,Caicó,240007,Caicó,02006,2402006,Caicó,05,240200605,Caicó
+24,Rio Grande do Norte,2403,Mossoró,240009,Mossoró,01305,2401305,Campo Grande,05,240130505,Campo Grande
+24,Rio Grande do Norte,2401,Natal,240004,Santa Cruz,02105,2402105,Campo Redondo,05,240210505,Campo Redondo
+24,Rio Grande do Norte,2401,Natal,240003,Canguaretama,02204,2402204,Canguaretama,05,240220405,Canguaretama
+24,Rio Grande do Norte,2403,Mossoró,240009,Mossoró,02303,2402303,Caraúbas,05,240230305,Caraúbas
+24,Rio Grande do Norte,2403,Mossoró,240009,Mossoró,02303,2402303,Caraúbas,10,240230310,São Geraldo
+24,Rio Grande do Norte,2402,Caicó,240008,Currais Novos,02402,2402402,Carnaúba dos Dantas,05,240240205,Carnaúba dos Dantas
+24,Rio Grande do Norte,2403,Mossoró,240011,Açu,02501,2402501,Carnaubais,05,240250105,Carnaubais
+24,Rio Grande do Norte,2401,Natal,240001,Natal,02600,2402600,Ceará-Mirim,05,240260005,Ceará-Mirim
+24,Rio Grande do Norte,2402,Caicó,240008,Currais Novos,02709,2402709,Cerro Corá,05,240270905,Cerro Corá
+24,Rio Grande do Norte,2401,Natal,240004,Santa Cruz,02808,2402808,Coronel Ezequiel,05,240280805,Coronel Ezequiel
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,02907,2402907,Coronel João Pessoa,05,240290705,Coronel João Pessoa
+24,Rio Grande do Norte,2402,Caicó,240007,Caicó,03004,2403004,Cruzeta,05,240300405,Cruzeta
+24,Rio Grande do Norte,2402,Caicó,240008,Currais Novos,03103,2403103,Currais Novos,05,240310305,Currais Novos
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,03202,2403202,Doutor Severiano,05,240320205,Doutor Severiano
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,03301,2403301,Encanto,05,240330105,Encanto
+24,Rio Grande do Norte,2402,Caicó,240007,Caicó,03400,2403400,Equador,05,240340005,Equador
+24,Rio Grande do Norte,2401,Natal,240003,Canguaretama,03509,2403509,Espírito Santo,05,240350905,Espírito Santo
+24,Rio Grande do Norte,2401,Natal,240001,Natal,03608,2403608,Extremoz,05,240360805,Extremoz
+24,Rio Grande do Norte,2403,Mossoró,240009,Mossoró,03707,2403707,Felipe Guerra,05,240370705,Felipe Guerra
+24,Rio Grande do Norte,2403,Mossoró,240011,Açu,03756,2403756,Fernando Pedroza,05,240375605,Fernando Pedroza
+24,Rio Grande do Norte,2402,Caicó,240008,Currais Novos,03806,2403806,Florânia,05,240380605,Florânia
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,03905,2403905,Francisco Dantas,05,240390505,Francisco Dantas
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,04002,2404002,Frutuoso Gomes,05,240400205,Frutuoso Gomes
+24,Rio Grande do Norte,2401,Natal,240005,João Câmara,04101,2404101,Galinhos,05,240410105,Galinhos
+24,Rio Grande do Norte,2401,Natal,240003,Canguaretama,04200,2404200,Goianinha,05,240420005,Goianinha
+24,Rio Grande do Norte,2403,Mossoró,240009,Mossoró,04309,2404309,Governador Dix-Sept Rosado,05,240430905,Governador Dix-Sept Rosado
+24,Rio Grande do Norte,2403,Mossoró,240009,Mossoró,04408,2404408,Grossos,05,240440805,Grossos
+24,Rio Grande do Norte,2403,Mossoró,240011,Açu,04507,2404507,Guamaré,05,240450705,Guamaré
+24,Rio Grande do Norte,2401,Natal,240001,Natal,04606,2404606,Ielmo Marinho,05,240460605,Ielmo Marinho
+24,Rio Grande do Norte,2403,Mossoró,240011,Açu,04705,2404705,Ipanguaçu,05,240470505,Ipanguaçu
+24,Rio Grande do Norte,2402,Caicó,240007,Caicó,04804,2404804,Ipueira,05,240480405,Ipueira
+24,Rio Grande do Norte,2403,Mossoró,240011,Açu,04853,2404853,Itajá,05,240485305,Itajá
+24,Rio Grande do Norte,2403,Mossoró,240009,Mossoró,04903,2404903,Itaú,05,240490305,Itaú
+24,Rio Grande do Norte,2401,Natal,240004,Santa Cruz,05009,2405009,Jaçanã,05,240500905,Jaçanã
+24,Rio Grande do Norte,2401,Natal,240005,João Câmara,05108,2405108,Jandaíra,05,240510805,Jandaíra
+24,Rio Grande do Norte,2403,Mossoró,240009,Mossoró,05207,2405207,Janduís,05,240520705,Janduís
+24,Rio Grande do Norte,2401,Natal,240002,Santo Antônio - Passa e Fica - Nova Cruz,05306,2405306,Januário Cicco,05,240530605,Januário Cicco
+24,Rio Grande do Norte,2401,Natal,240002,Santo Antônio - Passa e Fica - Nova Cruz,05306,2405306,Januário Cicco,10,240530610,Córrego de São Mateus
+24,Rio Grande do Norte,2401,Natal,240004,Santa Cruz,05405,2405405,Japi,05,240540505,Japi
+24,Rio Grande do Norte,2401,Natal,240005,João Câmara,05504,2405504,Jardim de Angicos,05,240550405,Jardim de Angicos
+24,Rio Grande do Norte,2402,Caicó,240007,Caicó,05603,2405603,Jardim de Piranhas,05,240560305,Jardim de Piranhas
+24,Rio Grande do Norte,2402,Caicó,240007,Caicó,05702,2405702,Jardim do Seridó,05,240570205,Jardim do Seridó
+24,Rio Grande do Norte,2401,Natal,240005,João Câmara,05801,2405801,João Câmara,05,240580105,João Câmara
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,05900,2405900,João Dias,05,240590005,João Dias
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,05900,2405900,João Dias,10,240590010,Rosário
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,06007,2406007,José da Penha,05,240600705,José da Penha
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,06007,2406007,José da Penha,10,240600710,Major Felipe
+24,Rio Grande do Norte,2402,Caicó,240007,Caicó,06106,2406106,Jucurutu,05,240610605,Jucurutu
+24,Rio Grande do Norte,2401,Natal,240001,Natal,06155,2406155,Jundiá,05,240615505,Jundiá
+24,Rio Grande do Norte,2401,Natal,240002,Santo Antônio - Passa e Fica - Nova Cruz,06205,2406205,Lagoa d'Anta,05,240620505,Lagoa d'Anta
+24,Rio Grande do Norte,2401,Natal,240002,Santo Antônio - Passa e Fica - Nova Cruz,06304,2406304,Lagoa de Pedras,05,240630405,Lagoa de Pedras
+24,Rio Grande do Norte,2401,Natal,240006,São Paulo do Potengi,06403,2406403,Lagoa de Velhos,05,240640305,Lagoa de Velhos
+24,Rio Grande do Norte,2402,Caicó,240008,Currais Novos,06502,2406502,Lagoa Nova,05,240650205,Lagoa Nova
+24,Rio Grande do Norte,2401,Natal,240001,Natal,06601,2406601,Lagoa Salgada,05,240660105,Lagoa Salgada
+24,Rio Grande do Norte,2403,Mossoró,240011,Açu,06700,2406700,Lajes,05,240670005,Lajes
+24,Rio Grande do Norte,2403,Mossoró,240011,Açu,06700,2406700,Lajes,10,240670010,Firmamento
+24,Rio Grande do Norte,2401,Natal,240004,Santa Cruz,06809,2406809,Lajes Pintadas,05,240680905,Lajes Pintadas
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,06908,2406908,Lucrécia,05,240690805,Lucrécia
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,07005,2407005,Luís Gomes,05,240700505,Luís Gomes
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,07005,2407005,Luís Gomes,15,240700515,São Bernardo
+24,Rio Grande do Norte,2401,Natal,240001,Natal,07104,2407104,Macaíba,05,240710405,Macaíba
+24,Rio Grande do Norte,2401,Natal,240001,Natal,07104,2407104,Macaíba,10,240710410,Cana Brava
+24,Rio Grande do Norte,2401,Natal,240001,Natal,07104,2407104,Macaíba,15,240710415,Traíras
+24,Rio Grande do Norte,2401,Natal,240001,Natal,07104,2407104,Macaíba,20,240710420,Mangabeira
+24,Rio Grande do Norte,2401,Natal,240001,Natal,07104,2407104,Macaíba,25,240710425,Cajazeiras
+24,Rio Grande do Norte,2403,Mossoró,240011,Açu,07203,2407203,Macau,05,240720305,Macau
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,07252,2407252,Major Sales,05,240725205,Major Sales
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,07302,2407302,Marcelino Vieira,05,240730205,Marcelino Vieira
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,07401,2407401,Martins,05,240740105,Martins
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,07401,2407401,Martins,10,240740110,Salva Vida
+24,Rio Grande do Norte,2401,Natal,240001,Natal,07500,2407500,Maxaranguape,05,240750005,Maxaranguape
+24,Rio Grande do Norte,2403,Mossoró,240009,Mossoró,07609,2407609,Messias Targino,05,240760905,Messias Targino
+24,Rio Grande do Norte,2401,Natal,240003,Canguaretama,07708,2407708,Montanhas,05,240770805,Montanhas
+24,Rio Grande do Norte,2401,Natal,240001,Natal,07807,2407807,Monte Alegre,05,240780705,Monte Alegre
+24,Rio Grande do Norte,2401,Natal,240002,Santo Antônio - Passa e Fica - Nova Cruz,07906,2407906,Monte das Gameleiras,05,240790605,Monte das Gameleiras
+24,Rio Grande do Norte,2403,Mossoró,240009,Mossoró,08003,2408003,Mossoró,05,240800305,Mossoró
+24,Rio Grande do Norte,2401,Natal,240001,Natal,08102,2408102,Natal,05,240810205,Natal
+24,Rio Grande do Norte,2401,Natal,240001,Natal,08201,2408201,Nísia Floresta,05,240820105,Nísia Floresta
+24,Rio Grande do Norte,2401,Natal,240002,Santo Antônio - Passa e Fica - Nova Cruz,08300,2408300,Nova Cruz,05,240830005,Nova Cruz
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,08409,2408409,Olho d'Água do Borges,05,240840905,Olho d'Água do Borges
+24,Rio Grande do Norte,2402,Caicó,240007,Caicó,08508,2408508,Ouro Branco,05,240850805,Ouro Branco
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,08607,2408607,Paraná,05,240860705,Paraná
+24,Rio Grande do Norte,2403,Mossoró,240011,Açu,08706,2408706,Paraú,05,240870605,Paraú
+24,Rio Grande do Norte,2401,Natal,240005,João Câmara,08805,2408805,Parazinho,05,240880505,Parazinho
+24,Rio Grande do Norte,2402,Caicó,240007,Caicó,08904,2408904,Parelhas,05,240890405,Parelhas
+24,Rio Grande do Norte,2401,Natal,240001,Natal,03251,2403251,Parnamirim,05,240325105,Parnamirim
+24,Rio Grande do Norte,2401,Natal,240001,Natal,03251,2403251,Parnamirim,10,240325110,Pium
+24,Rio Grande do Norte,2401,Natal,240001,Natal,03251,2403251,Parnamirim,15,240325115,Cotovelo
+24,Rio Grande do Norte,2401,Natal,240001,Natal,03251,2403251,Parnamirim,20,240325120,Pirangi do Norte
+24,Rio Grande do Norte,2401,Natal,240002,Santo Antônio - Passa e Fica - Nova Cruz,09100,2409100,Passa e Fica,05,240910005,Passa e Fica
+24,Rio Grande do Norte,2401,Natal,240002,Santo Antônio - Passa e Fica - Nova Cruz,09209,2409209,Passagem,05,240920905,Passagem
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,09308,2409308,Patu,05,240930805,Patu
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,09407,2409407,Pau dos Ferros,05,240940705,Pau dos Ferros
+24,Rio Grande do Norte,2401,Natal,240005,João Câmara,09506,2409506,Pedra Grande,05,240950605,Pedra Grande
+24,Rio Grande do Norte,2401,Natal,240005,João Câmara,09605,2409605,Pedra Preta,05,240960505,Pedra Preta
+24,Rio Grande do Norte,2401,Natal,240005,João Câmara,09704,2409704,Pedro Avelino,05,240970405,Pedro Avelino
+24,Rio Grande do Norte,2401,Natal,240003,Canguaretama,09803,2409803,Pedro Velho,05,240980305,Pedro Velho
+24,Rio Grande do Norte,2403,Mossoró,240011,Açu,09902,2409902,Pendências,05,240990205,Pendências
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,10009,2410009,Pilões,05,241000905,Pilões
+24,Rio Grande do Norte,2401,Natal,240001,Natal,10108,2410108,Poço Branco,05,241010805,Poço Branco
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,10207,2410207,Portalegre,05,241020705,Portalegre
+24,Rio Grande do Norte,2403,Mossoró,240011,Açu,10256,2410256,Porto do Mangue,05,241025605,Porto do Mangue
+24,Rio Grande do Norte,2401,Natal,240001,Natal,10405,2410405,Pureza,05,241040505,Pureza
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,10504,2410504,Rafael Fernandes,05,241050405,Rafael Fernandes
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,10603,2410603,Rafael Godeiro,05,241060305,Rafael Godeiro
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,10702,2410702,Riacho da Cruz,05,241070205,Riacho da Cruz
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,10801,2410801,Riacho de Santana,05,241080105,Riacho de Santana
+24,Rio Grande do Norte,2401,Natal,240006,São Paulo do Potengi,10900,2410900,Riachuelo,05,241090005,Riachuelo
+24,Rio Grande do Norte,2401,Natal,240001,Natal,08953,2408953,Rio do Fogo,05,240895305,Rio do Fogo
+24,Rio Grande do Norte,2403,Mossoró,240009,Mossoró,11007,2411007,Rodolfo Fernandes,05,241100705,Rodolfo Fernandes
+24,Rio Grande do Norte,2401,Natal,240006,São Paulo do Potengi,11106,2411106,Ruy Barbosa,05,241110605,Ruy Barbosa
+24,Rio Grande do Norte,2401,Natal,240004,Santa Cruz,11205,2411205,Santa Cruz,05,241120505,Santa Cruz
+24,Rio Grande do Norte,2401,Natal,240006,São Paulo do Potengi,09332,2409332,Santa Maria,05,240933205,Santa Maria
+24,Rio Grande do Norte,2403,Mossoró,240011,Açu,11403,2411403,Santana do Matos,05,241140305,Santana do Matos
+24,Rio Grande do Norte,2403,Mossoró,240011,Açu,11403,2411403,Santana do Matos,10,241140310,Barão de Serra Branca
+24,Rio Grande do Norte,2403,Mossoró,240011,Açu,11403,2411403,Santana do Matos,20,241140320,Santa Teresa
+24,Rio Grande do Norte,2403,Mossoró,240011,Açu,11403,2411403,Santana do Matos,25,241140325,São José da Passagem
+24,Rio Grande do Norte,2402,Caicó,240007,Caicó,11429,2411429,Santana do Seridó,05,241142905,Santana do Seridó
+24,Rio Grande do Norte,2401,Natal,240002,Santo Antônio - Passa e Fica - Nova Cruz,11502,2411502,Santo Antônio,05,241150205,Santo Antônio
+24,Rio Grande do Norte,2401,Natal,240005,João Câmara,11601,2411601,São Bento do Norte,05,241160105,São Bento do Norte
+24,Rio Grande do Norte,2401,Natal,240004,Santa Cruz,11700,2411700,São Bento do Trairí,05,241170005,São Bento do Trairí
+24,Rio Grande do Norte,2402,Caicó,240007,Caicó,11809,2411809,São Fernando,05,241180905,São Fernando
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,11908,2411908,São Francisco do Oeste,05,241190805,São Francisco do Oeste
+24,Rio Grande do Norte,2401,Natal,240001,Natal,12005,2412005,São Gonçalo do Amarante,05,241200505,São Gonçalo do Amarante
+24,Rio Grande do Norte,2402,Caicó,240007,Caicó,12104,2412104,São João do Sabugi,05,241210405,São João do Sabugi
+24,Rio Grande do Norte,2401,Natal,240001,Natal,12203,2412203,São José de Mipibu,05,241220305,São José de Mipibu
+24,Rio Grande do Norte,2401,Natal,240002,Santo Antônio - Passa e Fica - Nova Cruz,12302,2412302,São José do Campestre,05,241230205,São José do Campestre
+24,Rio Grande do Norte,2401,Natal,240002,Santo Antônio - Passa e Fica - Nova Cruz,12302,2412302,São José do Campestre,10,241230210,Ipiranga
+24,Rio Grande do Norte,2402,Caicó,240007,Caicó,12401,2412401,São José do Seridó,05,241240105,São José do Seridó
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,12500,2412500,São Miguel,05,241250005,São Miguel
+24,Rio Grande do Norte,2401,Natal,240001,Natal,12559,2412559,São Miguel do Gostoso,05,241255905,São Miguel do Gostoso
+24,Rio Grande do Norte,2401,Natal,240006,São Paulo do Potengi,12609,2412609,São Paulo do Potengi,05,241260905,São Paulo do Potengi
+24,Rio Grande do Norte,2401,Natal,240006,São Paulo do Potengi,12708,2412708,São Pedro,05,241270805,São Pedro
+24,Rio Grande do Norte,2403,Mossoró,240011,Açu,12807,2412807,São Rafael,05,241280705,São Rafael
+24,Rio Grande do Norte,2401,Natal,240006,São Paulo do Potengi,12906,2412906,São Tomé,05,241290605,São Tomé
+24,Rio Grande do Norte,2402,Caicó,240008,Currais Novos,13003,2413003,São Vicente,05,241300305,São Vicente
+24,Rio Grande do Norte,2401,Natal,240006,São Paulo do Potengi,13102,2413102,Senador Elói de Souza,05,241310205,Senador Elói de Souza
+24,Rio Grande do Norte,2401,Natal,240001,Natal,13201,2413201,Senador Georgino Avelino,05,241320105,Senador Georgino Avelino
+24,Rio Grande do Norte,2401,Natal,240001,Natal,13201,2413201,Senador Georgino Avelino,10,241320110,Carnaúba
+24,Rio Grande do Norte,2401,Natal,240002,Santo Antônio - Passa e Fica - Nova Cruz,10306,2410306,Serra Caiada,05,241030605,Serra Caiada
+24,Rio Grande do Norte,2401,Natal,240002,Santo Antônio - Passa e Fica - Nova Cruz,13300,2413300,Serra de São Bento,05,241330005,Serra de São Bento
+24,Rio Grande do Norte,2403,Mossoró,240009,Mossoró,13359,2413359,Serra do Mel,05,241335905,Serra do Mel
+24,Rio Grande do Norte,2402,Caicó,240007,Caicó,13409,2413409,Serra Negra do Norte,05,241340905,Serra Negra do Norte
+24,Rio Grande do Norte,2401,Natal,240002,Santo Antônio - Passa e Fica - Nova Cruz,13508,2413508,Serrinha,05,241350805,Serrinha
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,13557,2413557,Serrinha dos Pintos,05,241355705,Serrinha dos Pintos
+24,Rio Grande do Norte,2403,Mossoró,240009,Mossoró,13607,2413607,Severiano Melo,05,241360705,Severiano Melo
+24,Rio Grande do Norte,2401,Natal,240004,Santa Cruz,13706,2413706,Sítio Novo,05,241370605,Sítio Novo
+24,Rio Grande do Norte,2401,Natal,240004,Santa Cruz,13706,2413706,Sítio Novo,10,241370610,Serra da Tapuia
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,13805,2413805,Taboleiro Grande,05,241380505,Taboleiro Grande
+24,Rio Grande do Norte,2401,Natal,240001,Natal,13904,2413904,Taipu,05,241390405,Taipu
+24,Rio Grande do Norte,2401,Natal,240001,Natal,13904,2413904,Taipu,10,241390410,Gameleira
+24,Rio Grande do Norte,2401,Natal,240004,Santa Cruz,14001,2414001,Tangará,05,241400105,Tangará
+24,Rio Grande do Norte,2401,Natal,240004,Santa Cruz,14001,2414001,Tangará,10,241400110,Trairi
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,14100,2414100,Tenente Ananias,05,241410005,Tenente Ananias
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,14100,2414100,Tenente Ananias,10,241410010,Mata de São Braz
+24,Rio Grande do Norte,2402,Caicó,240008,Currais Novos,14159,2414159,Tenente Laurentino Cruz,05,241415905,Tenente Laurentino Cruz
+24,Rio Grande do Norte,2403,Mossoró,240009,Mossoró,11056,2411056,Tibau,05,241105605,Tibau
+24,Rio Grande do Norte,2401,Natal,240003,Canguaretama,14209,2414209,Tibau do Sul,05,241420905,Tibau do Sul
+24,Rio Grande do Norte,2402,Caicó,240007,Caicó,14308,2414308,Timbaúba dos Batistas,05,241430805,Timbaúba dos Batistas
+24,Rio Grande do Norte,2401,Natal,240001,Natal,14407,2414407,Touros,05,241440705,Touros
+24,Rio Grande do Norte,2403,Mossoró,240011,Açu,14456,2414456,Triunfo Potiguar,05,241445605,Triunfo Potiguar
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,14506,2414506,Umarizal,05,241450605,Umarizal
+24,Rio Grande do Norte,2403,Mossoró,240009,Mossoró,14605,2414605,Upanema,05,241460505,Upanema
+24,Rio Grande do Norte,2401,Natal,240002,Santo Antônio - Passa e Fica - Nova Cruz,14704,2414704,Várzea,05,241470405,Várzea
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,14753,2414753,Venha-Ver,05,241475305,Venha-Ver
+24,Rio Grande do Norte,2401,Natal,240001,Natal,14803,2414803,Vera Cruz,05,241480305,Vera Cruz
+24,Rio Grande do Norte,2403,Mossoró,240010,Pau dos Ferros,14902,2414902,Viçosa,05,241490205,Viçosa
+24,Rio Grande do Norte,2401,Natal,240003,Canguaretama,15008,2415008,Vila Flor,05,241500805,Vila Flor
